@@ -11,6 +11,7 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix fromtend && npm run build --prefix frontend"
   },
   "author": "beni saadon",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
